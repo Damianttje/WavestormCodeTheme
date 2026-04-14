@@ -1,0 +1,21 @@
+{
+  "name": "wscode",
+  "displayName": "Wavestorm Code",
+  "description": "A Visual Studio Code theme matching the Wavestorm color scheme and design language",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.115.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wavestorm Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wavestorm Code-color-theme.json"
+      }
+    ]
+  }
+}
