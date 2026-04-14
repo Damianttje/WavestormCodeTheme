@@ -4,6 +4,10 @@
   "displayName": "Wavestorm Code",
   "description": "A Visual Studio Code theme matching the Wavestorm color scheme and design language",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Damianttje/WavestormCodeTheme.git"
+  },
   "engines": {
     "vscode": "^1.115.0"
   },
