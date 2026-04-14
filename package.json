@@ -1,5 +1,6 @@
 {
   "name": "wscode",
+  "publisher": "Wavestorm",
   "displayName": "Wavestorm Code",
   "description": "A Visual Studio Code theme matching the Wavestorm color scheme and design language",
   "version": "0.0.1",
