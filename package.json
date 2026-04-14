@@ -1,9 +1,9 @@
 {
   "name": "wavestormcode",
   "publisher": "Wavestorm",
-  "displayName": "Wavestorm Code",
+  "displayName": "Wavestorm Theme",
   "description": "A Visual Studio Code theme matching the Wavestorm color scheme and design language",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "Unlicense",
   "repository": {
     "type": "git",
@@ -18,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Wavestorm Code",
+        "label": "Wavestorm Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Wavestorm Code-color-theme.json"
+        "path": "./themes/wavestorm-theme-color-theme.json"
       }
     ]
   }
