@@ -4,6 +4,7 @@
   "displayName": "Wavestorm Code",
   "description": "A Visual Studio Code theme matching the Wavestorm color scheme and design language",
   "version": "0.0.1",
+  "license": "Unlicense",
   "repository": {
     "type": "git",
     "url": "https://github.com/Damianttje/WavestormCodeTheme.git"
